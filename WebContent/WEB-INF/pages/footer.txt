@@ -1,0 +1,10 @@
+	<div id="footer">
+		<a href="" class="button">About Us</a>
+		<a href="" class="button">Contacts Us</a>
+		<a href="" class="button">Recommendation</a> 
+		<a href="" class="button">Feedback</a>
+		<p>Copyright 2015 © ShowTime Entertainment Pvt.Ltd. All Rights Reserved.</p>
+	</div>
+</body>
+</body>
+</html>
